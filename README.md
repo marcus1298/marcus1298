@@ -32,3 +32,6 @@ Experiência de trabalho com projetos de nuvem, engenharia de dados, data lake e
   <a href="https://www.linkedin.com/in/marcus-oliveira-34bb74172/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
+
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6495ED&height=-180&section=header&text=Marcus+Oliveira&fontSize=30&fontColor=F0FFFF&animation=twinkling&fontAlignY=35"/>
