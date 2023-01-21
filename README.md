@@ -25,13 +25,12 @@
   
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
   
-        
-        
-    
 </div>
   
   
+  
 <div> 
+
 
 
   <a href="https://www.youtube.com/channel/UC1CwDDyRTdpjyz43ShRgcnw" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
