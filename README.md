@@ -1,6 +1,6 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FD2705&height=180&section=header&text=Marcus+Oliveira&fontSize=30&fontColor=F0FFFF&animation=twinkling&fontAlignY=35"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=F0FFFF&height=180&section=header&text=Marcus+Oliveira&fontSize=30&fontColor=F0FFFF&animation=twinkling&fontAlignY=35"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FD2705&size=45&center=true&vCenter=true&width=1000&lines=Engenheiro+de+Computação+e+apaixonado+por+tecnologia!;Welcome+to+my+profile,+enjoy+your+stay!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FD2705&size=45&center=true&vCenter=true&width=1000&lines=Engenheiro+de+Computação;apaixonado+por+tecnologia!;Welcome+to+my+profile,+enjoy+your+stay!)](https://git.io/typing-svg)
 
 ## Resumo
 Experiência de trabalho com projetos de nuvem, engenharia de dados, data lake e área bancária: - Experiência profissional em Engenharia de Dados
