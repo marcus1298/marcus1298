@@ -4,9 +4,13 @@
 
 ## Resumo
 🎓 Engenharia de Computação - UFU
+
 👾 Computação Gráfica - IFTM
+
 ☁️ Experiência de trabalho com projetos em  nuvem 
+
 💻 Engenharia de dados, data lake 
+
 💰 Área bancária
 
 <div align="center>
