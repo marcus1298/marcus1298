@@ -39,4 +39,5 @@
   <a href="https://www.linkedin.com/in/marcus-oliveira-34bb74172/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marcus1298&show_icons=true&theme=transparent)
