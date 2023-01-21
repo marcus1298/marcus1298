@@ -3,13 +3,14 @@
 Experiência de trabalho com projetos de nuvem, engenharia de dados, data lake e área bancária: - Experiência profissional em Engenharia de Dados
 
 <div align="center>
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=thon18valentim&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=C0C0C0&text_color=c9d1d9&bg_color=0d1117" alt="Othon Valentim gitHub stats"/>
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=marcus1298&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=C0C0C0&text_color=C0C0C0&bg_color=0d1117" alt="Marcus Oliveira gitHub stats"/>
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcus1298&layout=compact&hide_border=true&title_color=FD2705&text_color=fff&bg_color=0d1117"/>
   
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
   
         
