@@ -2,16 +2,12 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=6495ED&size=45&center=true&vCenter=true&width=1000&lines=Engenheiro+de+Computação;Apaixonado+por+tecnologia!;Welcome+to+my+profile,+enjoy+your+stay!)](https://git.io/typing-svg)
 
-## Resumo
+## Sobre mim
 🎓 Engenharia de Computação - UFU
-
-👾 Computação Gráfica - IFTM
-
-☁️ Experiência de trabalho com projetos em  nuvem 
-
-💻 Engenharia de dados, data lake 
-
-💰 Área bancária
+|| 👾 Computação Gráfica - IFTM
+|| ☁️ Experiência de trabalho com projetos em  nuvem 
+|| 💻 Engenharia de dados, data lake 
+|| 💰 Área bancária
 
 <div align="center>
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=marcus1298&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=C0C0C0&text_color=C0C0C0&bg_color=0d1117" alt="Marcus Oliveira gitHub stats"/>
@@ -30,7 +26,7 @@
           
 </div>
   
-  ##
+  ##🚀 Skills
  
 <div> 
   <a href="https://www.youtube.com/channel/UC1CwDDyRTdpjyz43ShRgcnw" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
