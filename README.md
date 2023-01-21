@@ -1,4 +1,5 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6495ED&height=180&section=header&text=Marcus+Oliveira&fontSize=30&fontColor=F0FFFF&animation=twinkling&fontAlignY=35"/>
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=6495ED&size=45&center=true&vCenter=true&width=1000&lines=Engenheiro+de+Computação;Apaixonado+por+tecnologia!;Welcome+to+my+profile,+enjoy+your+stay!)](https://git.io/typing-svg)
 
 ## ✨ Sobre mim
