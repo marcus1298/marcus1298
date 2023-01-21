@@ -5,9 +5,9 @@
 ## ✨ Sobre mim
 🎓 Engenharia de Computação - UFU
 || 👾 Computação Gráfica - IFTM
-|| ☁️ Experiência de trabalho com projetos em  nuvem 
+|| ☁️ Experiência com projetos em  nuvem (AWS) 
 
-|| 💻 Engenharia de dados, data lake 
+💻 Engenharia de dados, data lake 
 || 💰 Área bancária
 
 <div align="center>
@@ -27,7 +27,7 @@
   
 </div>
   
-## 🚀 Redes Sociais   
+## 📬 Redes Sociais   
   
 <div> 
 
