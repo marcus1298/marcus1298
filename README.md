@@ -3,7 +3,11 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=6495ED&size=45&center=true&vCenter=true&width=1000&lines=Engenheiro+de+Computação;Apaixonado+por+tecnologia!;Welcome+to+my+profile,+enjoy+your+stay!)](https://git.io/typing-svg)
 
 ## Resumo
-Experiência de trabalho com projetos de nuvem, engenharia de dados, data lake e área bancária: - Experiência profissional em Engenharia de Dados
+🎓 Engenharia de Computação - UFU
+👾 Computação Gráfica - IFTM
+☁️ Experiência de trabalho com projetos em  nuvem 
+💻 Engenharia de dados, data lake 
+💰 Área bancária
 
 <div align="center>
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=marcus1298&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=C0C0C0&text_color=C0C0C0&bg_color=0d1117" alt="Marcus Oliveira gitHub stats"/>
@@ -33,5 +37,3 @@ Experiência de trabalho com projetos de nuvem, engenharia de dados, data lake e
   
 </div>
 
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6495ED&height=-180&section=header&text=Marcus+Oliveira&fontSize=30&fontColor=F0FFFF&animation=twinkling&fontAlignY=35"/>
