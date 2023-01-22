@@ -3,12 +3,12 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=6495ED&size=45&center=true&vCenter=true&width=1000&lines=Engenheiro+de+Computação;Apaixonado+por+tecnologia!;Welcome+to+my+profile,+enjoy+your+stay!)](https://git.io/typing-svg)
 
 ## ✨ Sobre mim
-🎓 Engenharia de Computação - UFU
-|| 👾 Computação Gráfica - IFTM
-|| ☁️ Experiência com projetos em  nuvem (AWS) 
+🎓 Computer Engineering - UFU
+|| 👾 Computer Graphics - IFTM
+|| ☁️ Experience with cloud projects (AWS)
 
-💻 Engenharia de dados, data lake 
-|| 💰 Área bancária
+💻 Data engineering, data lake
+|| 💰 Banking
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marcus1298&show_icons=true&theme=transparent)
 
